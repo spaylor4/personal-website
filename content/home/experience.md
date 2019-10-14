@@ -28,17 +28,23 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
+  title = "Digital Media Analyst"
+  company = "Merkle"
+  company_url = "https://www.merkleinc.com"
+  location = ""
+  date_start = "2017-08-14"
+  date_end = "2019-08-23"
+  description = """Forecasted and optimized media budgets, created and managed data ETL code, and designed custom Tableau reports for clients
   """
+
+
+[[experience]]
+    title = "Dow Jones News Fund Data Journalism Intern"
+    company = "Civil Beat"
+    company_url = "https://www.civilbeat.org"
+    location = "Hawaii"
+    date_start = "2017-05-20"
+    date_end = "2017-08-01"
+    description = """Wrote data-driven news articles and created interactive and static graphics for stories
+    """
 +++
