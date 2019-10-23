@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Journalism | Academic</title>
+    <link>/tags/data-journalism/</link>
+      <atom:link href="/tags/data-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Journalism</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Data Journalism</title>
+      <link>/tags/data-journalism/</link>
+    </image>
+    
+    <item>
+      <title>Moses Malone-ing It</title>
+      <link>/project/moses-maloneing-it/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/moses-maloneing-it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
