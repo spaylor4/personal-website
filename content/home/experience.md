@@ -47,4 +47,24 @@ date_format = "Jan 2006"
     date_end = "2017-08-01"
     description = """Wrote data-driven news articles and created interactive and static graphics for stories
     """
+
+[[experience]]
+    title = "Student Manager - Analytics"
+    company = "UNC Baseball"
+    company_url = ""
+    location = "North Carolina"
+    date_start = "2017-01-01"
+    date_end = "2017-05-01"
+    description = """
+    """
+
+[[experience]]
+    title = "Data Journalism Fellow"
+    company = "Carolina Data Desk"
+    company_url = ""
+    location = "North Carolina"
+    date_start = "2016-10-01"
+    date_end = "2017-05-01"
+    description = """
+    """
 +++
