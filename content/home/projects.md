@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Data Journalism"
+    tag = "Data Journalism"
 
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Sports Analytics"
+    tag = "ports Analytics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
