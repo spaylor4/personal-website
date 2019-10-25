@@ -31,7 +31,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Sports Analytics"
-    tag = "ports Analytics"
+    tag = "Sports Analytics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

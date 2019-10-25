@@ -7,5 +7,5 @@ image:
 summary: Analysis and data visualizations of Hawaii census data.
 tags:
 - Data Journalism
-title: US Census: Those Over 65 Are Hawaii's Fastest Growing Group
+title: US Census - Those Over 65 Are Hawaii's Fastest Growing Group
 ---

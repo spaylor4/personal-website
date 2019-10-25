@@ -7,6 +7,5 @@ image:
 summary: Deep-dive into some offensive rebounding statistics.
 tags:
 - Sports Analytics
-- Data Journalism
 title: Moses Malone-ing It
 ---

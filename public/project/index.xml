@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Analysis of Hawaii census data.</title>
+      <title>Explore a New Database of Severe Worker Injuries in Hawaii</title>
+      <link>/project/hawaii-osha/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/hawaii-osha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US Census - Those Over 65 Are Hawaii&#39;s Fastest Growing Group</title>
       <link>/project/hawaii-census/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       <guid>/project/hawaii-census/</guid>
