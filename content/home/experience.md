@@ -55,7 +55,7 @@ date_format = "Jan 2006"
     location = "North Carolina"
     date_start = "2017-01-01"
     date_end = "2017-05-01"
-    description = """Web scraped to build historical database, analyzed statistics to provide recommendations to coaches, and produced automated game summary reports for team
+    description = """Web scraped and analyzed player statistics to provide recommendations to coaches
     """
 
 [[experience]]
