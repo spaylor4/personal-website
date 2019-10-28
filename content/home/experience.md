@@ -55,7 +55,7 @@ date_format = "Jan 2006"
     location = "North Carolina"
     date_start = "2017-01-01"
     date_end = "2017-05-01"
-    description = """
+    description = """Web scraped to build historical database, analyzed statistics to provide recommendations to coaches, and produced automated game summary reports for team
     """
 
 [[experience]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
     location = "North Carolina"
     date_start = "2016-10-01"
     date_end = "2017-05-01"
-    description = """
+    description = """Produced original data-driven stories and collaborated with local journalists on how to effectively use data
     """
 +++
