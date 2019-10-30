@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Google Cloud Platform"
+  organization = "Google Cloud"
   organization_url = ""
-  title = "Certified Data Engineer"
+  title = "Professional Data Engineer"
   url = ""
-  certificate_url = ""
-  date_start = "2018-12-01"
+  certificate_url = "https://www.credential.net/yzsazjaf?key=b43c7fc11160d8dedf30e231622356e41a62ea4e74c4cf3702bf3b7afc4859e8"
+  date_start = "2018-12-14"
   date_end = ""
   description = ""
 
