@@ -18,9 +18,6 @@ organizations:
   url: ""
 role:
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: github
   icon_pack: fab
   link: https://github.com/spaylor4
