@@ -29,9 +29,4 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
 
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL" 
-
 +++
