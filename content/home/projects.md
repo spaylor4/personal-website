@@ -33,6 +33,10 @@ subtitle = ""
     name = "Sports Analytics"
     tag = "Sports Analytics"
 
+  [[content.filter_button]]
+    name = "Yosemite Archives"
+    tag = "Yosemite Archives"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
