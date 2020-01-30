@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2019-09-17"
-  date_end = ""
-  description = "Metadata lead for digitizing historic photos project"
+  date_end = "2019-12-18"
+  description = "Managed metadata for digitizing historic photos project; automated transcription of oral history videos"
 
 
 [[experience]]
